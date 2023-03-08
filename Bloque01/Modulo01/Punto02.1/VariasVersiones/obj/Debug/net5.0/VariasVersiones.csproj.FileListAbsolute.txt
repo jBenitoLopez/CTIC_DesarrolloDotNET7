@@ -1,0 +1,16 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.1\VariasVersiones\bin\Debug\net5.0\VariasVersiones.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.1\VariasVersiones\bin\Debug\net5.0\VariasVersiones.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.1\VariasVersiones\bin\Debug\net5.0\VariasVersiones.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.1\VariasVersiones\bin\Debug\net5.0\VariasVersiones.runtimeconfig.dev.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.1\VariasVersiones\bin\Debug\net5.0\VariasVersiones.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.1\VariasVersiones\bin\Debug\net5.0\ref\VariasVersiones.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.1\VariasVersiones\bin\Debug\net5.0\VariasVersiones.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.1\VariasVersiones\obj\Debug\net5.0\VariasVersiones.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.1\VariasVersiones\obj\Debug\net5.0\VariasVersiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.1\VariasVersiones\obj\Debug\net5.0\VariasVersiones.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.1\VariasVersiones\obj\Debug\net5.0\VariasVersiones.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.1\VariasVersiones\obj\Debug\net5.0\VariasVersiones.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.1\VariasVersiones\obj\Debug\net5.0\VariasVersiones.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.1\VariasVersiones\obj\Debug\net5.0\ref\VariasVersiones.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.1\VariasVersiones\obj\Debug\net5.0\VariasVersiones.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.1\VariasVersiones\obj\Debug\net5.0\VariasVersiones.genruntimeconfig.cache

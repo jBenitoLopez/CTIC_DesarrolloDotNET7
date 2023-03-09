@@ -21,10 +21,13 @@ Comandos:
 > ls (lista archivos y carpetas)
 > type .\global.json (muestra en contenido del archivo)
 
+> dotnet (mustra las opciones disponibles)
 > dotnet --info (lista SDKs instalados)
+> dotnet -h (siempre nos dara la ayuda del comando)
 
 > dotnet new console -h (muestra opciones disponible)
 > dotnet new (nos muestras un lista de las plantillas de dotnet disponibles)
+> dotnet new list (muestra las plantillas instaladas)
 > dotnet new console (creo un proyecto nuevo de tipo console)
 > dotnet new console --output AppConsole (creo un proyecto nuevo de tipo console con el nombre AppConsole)
 > dotnet new console -o AppConsole

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AppConsole3/1.0.0": {
+        "runtime": {
+          "AppConsole3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppConsole3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

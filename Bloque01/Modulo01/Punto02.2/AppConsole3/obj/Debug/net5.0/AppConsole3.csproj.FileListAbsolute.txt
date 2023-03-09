@@ -1,0 +1,16 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.2\AppConsole3\bin\Debug\net5.0\AppConsole3.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.2\AppConsole3\bin\Debug\net5.0\AppConsole3.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.2\AppConsole3\bin\Debug\net5.0\AppConsole3.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.2\AppConsole3\bin\Debug\net5.0\AppConsole3.runtimeconfig.dev.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.2\AppConsole3\bin\Debug\net5.0\AppConsole3.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.2\AppConsole3\bin\Debug\net5.0\AppConsole3.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.2\AppConsole3\obj\Debug\net5.0\AppConsole3.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.2\AppConsole3\obj\Debug\net5.0\AppConsole3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.2\AppConsole3\obj\Debug\net5.0\AppConsole3.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.2\AppConsole3\obj\Debug\net5.0\AppConsole3.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.2\AppConsole3\obj\Debug\net5.0\AppConsole3.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.2\AppConsole3\obj\Debug\net5.0\AppConsole3.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.2\AppConsole3\obj\Debug\net5.0\refint\AppConsole3.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.2\AppConsole3\obj\Debug\net5.0\AppConsole3.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.2\AppConsole3\obj\Debug\net5.0\AppConsole3.genruntimeconfig.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto02.2\AppConsole3\obj\Debug\net5.0\ref\AppConsole3.dll

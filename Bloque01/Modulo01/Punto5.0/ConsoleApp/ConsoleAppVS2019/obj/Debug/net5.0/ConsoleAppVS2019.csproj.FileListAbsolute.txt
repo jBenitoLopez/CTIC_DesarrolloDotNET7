@@ -1,0 +1,16 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto5.0\ConsoleApp\ConsoleAppVS2019\bin\Debug\net5.0\ConsoleAppVS2019.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto5.0\ConsoleApp\ConsoleAppVS2019\bin\Debug\net5.0\ConsoleAppVS2019.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto5.0\ConsoleApp\ConsoleAppVS2019\bin\Debug\net5.0\ConsoleAppVS2019.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto5.0\ConsoleApp\ConsoleAppVS2019\bin\Debug\net5.0\ConsoleAppVS2019.runtimeconfig.dev.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto5.0\ConsoleApp\ConsoleAppVS2019\bin\Debug\net5.0\ConsoleAppVS2019.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto5.0\ConsoleApp\ConsoleAppVS2019\bin\Debug\net5.0\ref\ConsoleAppVS2019.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto5.0\ConsoleApp\ConsoleAppVS2019\bin\Debug\net5.0\ConsoleAppVS2019.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto5.0\ConsoleApp\ConsoleAppVS2019\obj\Debug\net5.0\ConsoleAppVS2019.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto5.0\ConsoleApp\ConsoleAppVS2019\obj\Debug\net5.0\ConsoleAppVS2019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto5.0\ConsoleApp\ConsoleAppVS2019\obj\Debug\net5.0\ConsoleAppVS2019.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto5.0\ConsoleApp\ConsoleAppVS2019\obj\Debug\net5.0\ConsoleAppVS2019.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto5.0\ConsoleApp\ConsoleAppVS2019\obj\Debug\net5.0\ConsoleAppVS2019.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto5.0\ConsoleApp\ConsoleAppVS2019\obj\Debug\net5.0\ConsoleAppVS2019.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto5.0\ConsoleApp\ConsoleAppVS2019\obj\Debug\net5.0\ref\ConsoleAppVS2019.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto5.0\ConsoleApp\ConsoleAppVS2019\obj\Debug\net5.0\ConsoleAppVS2019.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo01\Punto5.0\ConsoleApp\ConsoleAppVS2019\obj\Debug\net5.0\ConsoleAppVS2019.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto6\TiposDeDatos\bin\Debug\net6.0\TiposDeDatos.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto6\TiposDeDatos\bin\Debug\net6.0\TiposDeDatos.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto6\TiposDeDatos\bin\Debug\net6.0\TiposDeDatos.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto6\TiposDeDatos\bin\Debug\net6.0\TiposDeDatos.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto6\TiposDeDatos\bin\Debug\net6.0\TiposDeDatos.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto6\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto6\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto6\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto6\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto6\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto6\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto6\TiposDeDatos\obj\Debug\net6.0\refint\TiposDeDatos.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto6\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto6\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.genruntimeconfig.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto6\TiposDeDatos\obj\Debug\net6.0\ref\TiposDeDatos.dll

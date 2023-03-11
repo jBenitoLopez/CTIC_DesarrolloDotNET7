@@ -32,9 +32,12 @@ Comandos:
 > dotnet new console --output AppConsole (creo un proyecto nuevo de tipo console con el nombre AppConsole)
 > dotnet new console -o AppConsole
 > dotnet new console -f net6.0 (Crea proyecto para la version NET6)
+> dotnet new console -f net6.0 --use-program-main -o AppConsoleName
 > dotnet run (ejecuta el proyecto)
 > dotnet build  (compla el proyecto)
 > ...\bin\Debug\net5.0> .\VariasVersiones.exe (ejecuta el ejecutable)
+
+
 --------------------------------------------------------------------------------------------------------
 Principales funciones de dotnet
 --------------------------------------------------------------------------------------------------------

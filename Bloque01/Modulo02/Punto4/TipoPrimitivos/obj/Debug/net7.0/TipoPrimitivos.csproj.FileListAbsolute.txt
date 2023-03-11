@@ -1,0 +1,15 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto4\TipoPrimitivos\bin\Debug\net7.0\TipoPrimitivos.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto4\TipoPrimitivos\bin\Debug\net7.0\TipoPrimitivos.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto4\TipoPrimitivos\bin\Debug\net7.0\TipoPrimitivos.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto4\TipoPrimitivos\bin\Debug\net7.0\TipoPrimitivos.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto4\TipoPrimitivos\bin\Debug\net7.0\TipoPrimitivos.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto4\TipoPrimitivos\obj\Debug\net7.0\TipoPrimitivos.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto4\TipoPrimitivos\obj\Debug\net7.0\TipoPrimitivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto4\TipoPrimitivos\obj\Debug\net7.0\TipoPrimitivos.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto4\TipoPrimitivos\obj\Debug\net7.0\TipoPrimitivos.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto4\TipoPrimitivos\obj\Debug\net7.0\TipoPrimitivos.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto4\TipoPrimitivos\obj\Debug\net7.0\TipoPrimitivos.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto4\TipoPrimitivos\obj\Debug\net7.0\refint\TipoPrimitivos.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto4\TipoPrimitivos\obj\Debug\net7.0\TipoPrimitivos.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto4\TipoPrimitivos\obj\Debug\net7.0\TipoPrimitivos.genruntimeconfig.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo02\Punto4\TipoPrimitivos\obj\Debug\net7.0\ref\TipoPrimitivos.dll

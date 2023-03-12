@@ -1,0 +1,15 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\matricesIterativas\bin\Debug\net6.0\matricesIterativas.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\matricesIterativas\bin\Debug\net6.0\matricesIterativas.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\matricesIterativas\bin\Debug\net6.0\matricesIterativas.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\matricesIterativas\bin\Debug\net6.0\matricesIterativas.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\matricesIterativas\bin\Debug\net6.0\matricesIterativas.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\matricesIterativas\obj\Debug\net6.0\matricesIterativas.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\matricesIterativas\obj\Debug\net6.0\matricesIterativas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\matricesIterativas\obj\Debug\net6.0\matricesIterativas.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\matricesIterativas\obj\Debug\net6.0\matricesIterativas.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\matricesIterativas\obj\Debug\net6.0\matricesIterativas.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\matricesIterativas\obj\Debug\net6.0\matricesIterativas.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\matricesIterativas\obj\Debug\net6.0\refint\matricesIterativas.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\matricesIterativas\obj\Debug\net6.0\matricesIterativas.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\matricesIterativas\obj\Debug\net6.0\matricesIterativas.genruntimeconfig.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\matricesIterativas\obj\Debug\net6.0\ref\matricesIterativas.dll

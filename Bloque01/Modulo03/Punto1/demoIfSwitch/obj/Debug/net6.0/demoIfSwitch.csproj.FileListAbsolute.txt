@@ -1,0 +1,15 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto1\demoIfSwitch\bin\Debug\net6.0\demoIfSwitch.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto1\demoIfSwitch\bin\Debug\net6.0\demoIfSwitch.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto1\demoIfSwitch\bin\Debug\net6.0\demoIfSwitch.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto1\demoIfSwitch\bin\Debug\net6.0\demoIfSwitch.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto1\demoIfSwitch\bin\Debug\net6.0\demoIfSwitch.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto1\demoIfSwitch\obj\Debug\net6.0\demoIfSwitch.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto1\demoIfSwitch\obj\Debug\net6.0\demoIfSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto1\demoIfSwitch\obj\Debug\net6.0\demoIfSwitch.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto1\demoIfSwitch\obj\Debug\net6.0\demoIfSwitch.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto1\demoIfSwitch\obj\Debug\net6.0\demoIfSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto1\demoIfSwitch\obj\Debug\net6.0\demoIfSwitch.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto1\demoIfSwitch\obj\Debug\net6.0\refint\demoIfSwitch.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto1\demoIfSwitch\obj\Debug\net6.0\demoIfSwitch.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto1\demoIfSwitch\obj\Debug\net6.0\demoIfSwitch.genruntimeconfig.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto1\demoIfSwitch\obj\Debug\net6.0\ref\demoIfSwitch.dll

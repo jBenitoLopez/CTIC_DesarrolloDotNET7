@@ -1,0 +1,15 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\DiferentesBucles\bin\Debug\net6.0\DiferentesBucles.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\DiferentesBucles\bin\Debug\net6.0\DiferentesBucles.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\DiferentesBucles\bin\Debug\net6.0\DiferentesBucles.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\DiferentesBucles\bin\Debug\net6.0\DiferentesBucles.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\DiferentesBucles\bin\Debug\net6.0\DiferentesBucles.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\DiferentesBucles\obj\Debug\net6.0\DiferentesBucles.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\DiferentesBucles\obj\Debug\net6.0\DiferentesBucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\DiferentesBucles\obj\Debug\net6.0\DiferentesBucles.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\DiferentesBucles\obj\Debug\net6.0\DiferentesBucles.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\DiferentesBucles\obj\Debug\net6.0\DiferentesBucles.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\DiferentesBucles\obj\Debug\net6.0\DiferentesBucles.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\DiferentesBucles\obj\Debug\net6.0\refint\DiferentesBucles.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\DiferentesBucles\obj\Debug\net6.0\DiferentesBucles.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\DiferentesBucles\obj\Debug\net6.0\DiferentesBucles.genruntimeconfig.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\DiferentesBucles\obj\Debug\net6.0\ref\DiferentesBucles.dll

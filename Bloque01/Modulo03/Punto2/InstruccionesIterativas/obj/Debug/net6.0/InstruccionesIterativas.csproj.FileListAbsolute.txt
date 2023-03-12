@@ -1,0 +1,15 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\InstruccionesIterativas\bin\Debug\net6.0\InstruccionesIterativas.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\InstruccionesIterativas\bin\Debug\net6.0\InstruccionesIterativas.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\InstruccionesIterativas\bin\Debug\net6.0\InstruccionesIterativas.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\InstruccionesIterativas\bin\Debug\net6.0\InstruccionesIterativas.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\InstruccionesIterativas\bin\Debug\net6.0\InstruccionesIterativas.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\InstruccionesIterativas\obj\Debug\net6.0\InstruccionesIterativas.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\InstruccionesIterativas\obj\Debug\net6.0\InstruccionesIterativas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\InstruccionesIterativas\obj\Debug\net6.0\InstruccionesIterativas.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\InstruccionesIterativas\obj\Debug\net6.0\InstruccionesIterativas.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\InstruccionesIterativas\obj\Debug\net6.0\InstruccionesIterativas.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\InstruccionesIterativas\obj\Debug\net6.0\InstruccionesIterativas.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\InstruccionesIterativas\obj\Debug\net6.0\refint\InstruccionesIterativas.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\InstruccionesIterativas\obj\Debug\net6.0\InstruccionesIterativas.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\InstruccionesIterativas\obj\Debug\net6.0\InstruccionesIterativas.genruntimeconfig.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto2\InstruccionesIterativas\obj\Debug\net6.0\ref\InstruccionesIterativas.dll

@@ -1,0 +1,16 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto4\DocumentacionXML\bin\Debug\net6.0\DocumentacionXML.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto4\DocumentacionXML\bin\Debug\net6.0\DocumentationXML.xml
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto4\DocumentacionXML\bin\Debug\net6.0\DocumentacionXML.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto4\DocumentacionXML\bin\Debug\net6.0\DocumentacionXML.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto4\DocumentacionXML\bin\Debug\net6.0\DocumentacionXML.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto4\DocumentacionXML\bin\Debug\net6.0\DocumentacionXML.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto4\DocumentacionXML\obj\Debug\net6.0\DocumentacionXML.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto4\DocumentacionXML\obj\Debug\net6.0\DocumentacionXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto4\DocumentacionXML\obj\Debug\net6.0\DocumentacionXML.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto4\DocumentacionXML\obj\Debug\net6.0\DocumentacionXML.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto4\DocumentacionXML\obj\Debug\net6.0\DocumentacionXML.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto4\DocumentacionXML\obj\Debug\net6.0\DocumentacionXML.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto4\DocumentacionXML\obj\Debug\net6.0\refint\DocumentacionXML.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto4\DocumentacionXML\obj\Debug\net6.0\DocumentacionXML.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto4\DocumentacionXML\obj\Debug\net6.0\DocumentacionXML.genruntimeconfig.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque01\Modulo03\Punto4\DocumentacionXML\obj\Debug\net6.0\ref\DocumentacionXML.dll

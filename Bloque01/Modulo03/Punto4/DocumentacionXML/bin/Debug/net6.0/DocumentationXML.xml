@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DocumentacionXML</name>
+    </assembly>
+    <members>
+        <member name="T:DocumentacionXML.Program">
+            <sumary>
+            Esta es la clase principal
+            anunciada en un comentario XML
+            </sumary>
+        </member>
+    </members>
+</doc>

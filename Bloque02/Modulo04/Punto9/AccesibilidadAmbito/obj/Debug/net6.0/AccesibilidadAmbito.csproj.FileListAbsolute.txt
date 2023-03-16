@@ -1,0 +1,15 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto9\AccesibilidadAmbito\bin\Debug\net6.0\AccesibilidadAmbito.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto9\AccesibilidadAmbito\bin\Debug\net6.0\AccesibilidadAmbito.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto9\AccesibilidadAmbito\bin\Debug\net6.0\AccesibilidadAmbito.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto9\AccesibilidadAmbito\bin\Debug\net6.0\AccesibilidadAmbito.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto9\AccesibilidadAmbito\bin\Debug\net6.0\AccesibilidadAmbito.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto9\AccesibilidadAmbito\obj\Debug\net6.0\AccesibilidadAmbito.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto9\AccesibilidadAmbito\obj\Debug\net6.0\AccesibilidadAmbito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto9\AccesibilidadAmbito\obj\Debug\net6.0\AccesibilidadAmbito.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto9\AccesibilidadAmbito\obj\Debug\net6.0\AccesibilidadAmbito.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto9\AccesibilidadAmbito\obj\Debug\net6.0\AccesibilidadAmbito.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto9\AccesibilidadAmbito\obj\Debug\net6.0\AccesibilidadAmbito.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto9\AccesibilidadAmbito\obj\Debug\net6.0\refint\AccesibilidadAmbito.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto9\AccesibilidadAmbito\obj\Debug\net6.0\AccesibilidadAmbito.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto9\AccesibilidadAmbito\obj\Debug\net6.0\AccesibilidadAmbito.genruntimeconfig.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto9\AccesibilidadAmbito\obj\Debug\net6.0\ref\AccesibilidadAmbito.dll

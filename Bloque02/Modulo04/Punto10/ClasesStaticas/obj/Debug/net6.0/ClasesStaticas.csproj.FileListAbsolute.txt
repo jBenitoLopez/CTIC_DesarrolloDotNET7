@@ -1,0 +1,15 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\ClasesStaticas\bin\Debug\net6.0\ClasesStaticas.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\ClasesStaticas\bin\Debug\net6.0\ClasesStaticas.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\ClasesStaticas\bin\Debug\net6.0\ClasesStaticas.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\ClasesStaticas\bin\Debug\net6.0\ClasesStaticas.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\ClasesStaticas\bin\Debug\net6.0\ClasesStaticas.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\ClasesStaticas\obj\Debug\net6.0\ClasesStaticas.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\ClasesStaticas\obj\Debug\net6.0\ClasesStaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\ClasesStaticas\obj\Debug\net6.0\ClasesStaticas.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\ClasesStaticas\obj\Debug\net6.0\ClasesStaticas.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\ClasesStaticas\obj\Debug\net6.0\ClasesStaticas.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\ClasesStaticas\obj\Debug\net6.0\ClasesStaticas.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\ClasesStaticas\obj\Debug\net6.0\refint\ClasesStaticas.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\ClasesStaticas\obj\Debug\net6.0\ClasesStaticas.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\ClasesStaticas\obj\Debug\net6.0\ClasesStaticas.genruntimeconfig.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\ClasesStaticas\obj\Debug\net6.0\ref\ClasesStaticas.dll

@@ -1,0 +1,15 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\AbstraccionPolimorfismo\bin\Debug\net6.0\AbstraccionPolimorfismo.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\AbstraccionPolimorfismo\bin\Debug\net6.0\AbstraccionPolimorfismo.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\AbstraccionPolimorfismo\bin\Debug\net6.0\AbstraccionPolimorfismo.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\AbstraccionPolimorfismo\bin\Debug\net6.0\AbstraccionPolimorfismo.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\AbstraccionPolimorfismo\bin\Debug\net6.0\AbstraccionPolimorfismo.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\AbstraccionPolimorfismo\obj\Debug\net6.0\AbstraccionPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\AbstraccionPolimorfismo\obj\Debug\net6.0\AbstraccionPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\AbstraccionPolimorfismo\obj\Debug\net6.0\AbstraccionPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\AbstraccionPolimorfismo\obj\Debug\net6.0\AbstraccionPolimorfismo.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\AbstraccionPolimorfismo\obj\Debug\net6.0\AbstraccionPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\AbstraccionPolimorfismo\obj\Debug\net6.0\AbstraccionPolimorfismo.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\AbstraccionPolimorfismo\obj\Debug\net6.0\refint\AbstraccionPolimorfismo.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\AbstraccionPolimorfismo\obj\Debug\net6.0\AbstraccionPolimorfismo.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\AbstraccionPolimorfismo\obj\Debug\net6.0\AbstraccionPolimorfismo.genruntimeconfig.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo04\Punto10\AbstraccionPolimorfismo\obj\Debug\net6.0\ref\AbstraccionPolimorfismo.dll

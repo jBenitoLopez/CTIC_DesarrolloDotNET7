@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "clases-y-estructuras/1.0.0": {
+        "runtime": {
+          "clases-y-estructuras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clases-y-estructuras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

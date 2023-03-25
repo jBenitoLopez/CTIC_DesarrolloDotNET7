@@ -1,0 +1,15 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto5\FormateandoSalida\bin\Debug\net6.0\FormateandoSalida.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto5\FormateandoSalida\bin\Debug\net6.0\FormateandoSalida.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto5\FormateandoSalida\bin\Debug\net6.0\FormateandoSalida.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto5\FormateandoSalida\bin\Debug\net6.0\FormateandoSalida.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto5\FormateandoSalida\bin\Debug\net6.0\FormateandoSalida.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto5\FormateandoSalida\obj\Debug\net6.0\FormateandoSalida.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto5\FormateandoSalida\obj\Debug\net6.0\FormateandoSalida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto5\FormateandoSalida\obj\Debug\net6.0\FormateandoSalida.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto5\FormateandoSalida\obj\Debug\net6.0\FormateandoSalida.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto5\FormateandoSalida\obj\Debug\net6.0\FormateandoSalida.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto5\FormateandoSalida\obj\Debug\net6.0\FormateandoSalida.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto5\FormateandoSalida\obj\Debug\net6.0\refint\FormateandoSalida.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto5\FormateandoSalida\obj\Debug\net6.0\FormateandoSalida.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto5\FormateandoSalida\obj\Debug\net6.0\FormateandoSalida.genruntimeconfig.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto5\FormateandoSalida\obj\Debug\net6.0\ref\FormateandoSalida.dll

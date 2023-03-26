@@ -1,0 +1,15 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto6\DemoExpresionesRegulares\bin\Debug\net6.0\DemoExpresionesRegulares.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto6\DemoExpresionesRegulares\bin\Debug\net6.0\DemoExpresionesRegulares.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto6\DemoExpresionesRegulares\bin\Debug\net6.0\DemoExpresionesRegulares.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto6\DemoExpresionesRegulares\bin\Debug\net6.0\DemoExpresionesRegulares.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto6\DemoExpresionesRegulares\bin\Debug\net6.0\DemoExpresionesRegulares.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto6\DemoExpresionesRegulares\obj\Debug\net6.0\DemoExpresionesRegulares.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto6\DemoExpresionesRegulares\obj\Debug\net6.0\DemoExpresionesRegulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto6\DemoExpresionesRegulares\obj\Debug\net6.0\DemoExpresionesRegulares.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto6\DemoExpresionesRegulares\obj\Debug\net6.0\DemoExpresionesRegulares.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto6\DemoExpresionesRegulares\obj\Debug\net6.0\DemoExpresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto6\DemoExpresionesRegulares\obj\Debug\net6.0\DemoExpresionesRegulares.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto6\DemoExpresionesRegulares\obj\Debug\net6.0\refint\DemoExpresionesRegulares.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto6\DemoExpresionesRegulares\obj\Debug\net6.0\DemoExpresionesRegulares.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto6\DemoExpresionesRegulares\obj\Debug\net6.0\DemoExpresionesRegulares.genruntimeconfig.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto6\DemoExpresionesRegulares\obj\Debug\net6.0\ref\DemoExpresionesRegulares.dll

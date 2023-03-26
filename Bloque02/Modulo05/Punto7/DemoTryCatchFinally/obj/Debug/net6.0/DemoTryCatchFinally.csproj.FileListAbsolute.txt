@@ -1,0 +1,15 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto7\DemoTryCatchFinally\bin\Debug\net6.0\DemoTryCatchFinally.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto7\DemoTryCatchFinally\bin\Debug\net6.0\DemoTryCatchFinally.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto7\DemoTryCatchFinally\bin\Debug\net6.0\DemoTryCatchFinally.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto7\DemoTryCatchFinally\bin\Debug\net6.0\DemoTryCatchFinally.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto7\DemoTryCatchFinally\bin\Debug\net6.0\DemoTryCatchFinally.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto7\DemoTryCatchFinally\obj\Debug\net6.0\DemoTryCatchFinally.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto7\DemoTryCatchFinally\obj\Debug\net6.0\DemoTryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto7\DemoTryCatchFinally\obj\Debug\net6.0\DemoTryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto7\DemoTryCatchFinally\obj\Debug\net6.0\DemoTryCatchFinally.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto7\DemoTryCatchFinally\obj\Debug\net6.0\DemoTryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto7\DemoTryCatchFinally\obj\Debug\net6.0\DemoTryCatchFinally.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto7\DemoTryCatchFinally\obj\Debug\net6.0\refint\DemoTryCatchFinally.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto7\DemoTryCatchFinally\obj\Debug\net6.0\DemoTryCatchFinally.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto7\DemoTryCatchFinally\obj\Debug\net6.0\DemoTryCatchFinally.genruntimeconfig.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto7\DemoTryCatchFinally\obj\Debug\net6.0\ref\DemoTryCatchFinally.dll

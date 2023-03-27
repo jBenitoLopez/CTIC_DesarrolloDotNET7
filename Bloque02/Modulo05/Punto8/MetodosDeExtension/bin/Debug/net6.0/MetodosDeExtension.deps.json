@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MetodosDeExtension/1.0.0": {
+        "runtime": {
+          "MetodosDeExtension.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MetodosDeExtension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

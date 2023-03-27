@@ -1,0 +1,15 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto8\DemoMetodosDeExtension\bin\Debug\net6.0\DemoMetodosDeExtension.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto8\DemoMetodosDeExtension\bin\Debug\net6.0\DemoMetodosDeExtension.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto8\DemoMetodosDeExtension\bin\Debug\net6.0\DemoMetodosDeExtension.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto8\DemoMetodosDeExtension\bin\Debug\net6.0\DemoMetodosDeExtension.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto8\DemoMetodosDeExtension\bin\Debug\net6.0\DemoMetodosDeExtension.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto8\DemoMetodosDeExtension\obj\Debug\net6.0\DemoMetodosDeExtension.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto8\DemoMetodosDeExtension\obj\Debug\net6.0\DemoMetodosDeExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto8\DemoMetodosDeExtension\obj\Debug\net6.0\DemoMetodosDeExtension.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto8\DemoMetodosDeExtension\obj\Debug\net6.0\DemoMetodosDeExtension.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto8\DemoMetodosDeExtension\obj\Debug\net6.0\DemoMetodosDeExtension.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto8\DemoMetodosDeExtension\obj\Debug\net6.0\DemoMetodosDeExtension.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto8\DemoMetodosDeExtension\obj\Debug\net6.0\refint\DemoMetodosDeExtension.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto8\DemoMetodosDeExtension\obj\Debug\net6.0\DemoMetodosDeExtension.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto8\DemoMetodosDeExtension\obj\Debug\net6.0\DemoMetodosDeExtension.genruntimeconfig.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto8\DemoMetodosDeExtension\obj\Debug\net6.0\ref\DemoMetodosDeExtension.dll

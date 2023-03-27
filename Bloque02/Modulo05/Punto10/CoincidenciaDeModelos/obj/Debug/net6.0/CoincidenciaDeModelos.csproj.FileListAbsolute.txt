@@ -1,0 +1,15 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto10\CoincidenciaDeModelos\obj\Debug\net6.0\CoincidenciaDeModelos.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto10\CoincidenciaDeModelos\obj\Debug\net6.0\CoincidenciaDeModelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto10\CoincidenciaDeModelos\obj\Debug\net6.0\CoincidenciaDeModelos.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto10\CoincidenciaDeModelos\obj\Debug\net6.0\CoincidenciaDeModelos.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto10\CoincidenciaDeModelos\obj\Debug\net6.0\CoincidenciaDeModelos.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto10\CoincidenciaDeModelos\bin\Debug\net6.0\CoincidenciaDeModelos.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto10\CoincidenciaDeModelos\bin\Debug\net6.0\CoincidenciaDeModelos.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto10\CoincidenciaDeModelos\bin\Debug\net6.0\CoincidenciaDeModelos.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto10\CoincidenciaDeModelos\bin\Debug\net6.0\CoincidenciaDeModelos.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto10\CoincidenciaDeModelos\bin\Debug\net6.0\CoincidenciaDeModelos.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto10\CoincidenciaDeModelos\obj\Debug\net6.0\CoincidenciaDeModelos.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto10\CoincidenciaDeModelos\obj\Debug\net6.0\refint\CoincidenciaDeModelos.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto10\CoincidenciaDeModelos\obj\Debug\net6.0\CoincidenciaDeModelos.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto10\CoincidenciaDeModelos\obj\Debug\net6.0\CoincidenciaDeModelos.genruntimeconfig.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo05\Punto10\CoincidenciaDeModelos\obj\Debug\net6.0\ref\CoincidenciaDeModelos.dll

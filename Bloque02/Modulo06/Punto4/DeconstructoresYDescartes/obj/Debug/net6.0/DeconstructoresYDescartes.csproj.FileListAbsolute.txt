@@ -1,0 +1,15 @@
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo06\Punto4\DeconstructoresYDescartes\bin\Debug\net6.0\DeconstructoresYDescartes.exe
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo06\Punto4\DeconstructoresYDescartes\bin\Debug\net6.0\DeconstructoresYDescartes.deps.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo06\Punto4\DeconstructoresYDescartes\bin\Debug\net6.0\DeconstructoresYDescartes.runtimeconfig.json
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo06\Punto4\DeconstructoresYDescartes\bin\Debug\net6.0\DeconstructoresYDescartes.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo06\Punto4\DeconstructoresYDescartes\bin\Debug\net6.0\DeconstructoresYDescartes.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo06\Punto4\DeconstructoresYDescartes\obj\Debug\net6.0\DeconstructoresYDescartes.csproj.AssemblyReference.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo06\Punto4\DeconstructoresYDescartes\obj\Debug\net6.0\DeconstructoresYDescartes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo06\Punto4\DeconstructoresYDescartes\obj\Debug\net6.0\DeconstructoresYDescartes.AssemblyInfoInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo06\Punto4\DeconstructoresYDescartes\obj\Debug\net6.0\DeconstructoresYDescartes.AssemblyInfo.cs
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo06\Punto4\DeconstructoresYDescartes\obj\Debug\net6.0\DeconstructoresYDescartes.csproj.CoreCompileInputs.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo06\Punto4\DeconstructoresYDescartes\obj\Debug\net6.0\DeconstructoresYDescartes.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo06\Punto4\DeconstructoresYDescartes\obj\Debug\net6.0\refint\DeconstructoresYDescartes.dll
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo06\Punto4\DeconstructoresYDescartes\obj\Debug\net6.0\DeconstructoresYDescartes.pdb
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo06\Punto4\DeconstructoresYDescartes\obj\Debug\net6.0\DeconstructoresYDescartes.genruntimeconfig.cache
+C:\Users\Benny\Documents\Cursos-Cluster TIC\01-desarrollo-net7-csharp11\CTIC_DesarrolloDotNET7\Bloque02\Modulo06\Punto4\DeconstructoresYDescartes\obj\Debug\net6.0\ref\DeconstructoresYDescartes.dll

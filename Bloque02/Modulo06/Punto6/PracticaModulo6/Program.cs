@@ -1,34 +1,92 @@
 ﻿namespace PracticaModulo6;
 class Program
 {
-
-
     static void Main(string[] args)
     {
-        // 1. Tarea
-        System.Console.WriteLine($"(int) Los parametros {(Igualdad(1, 1) ? "Son iguales" : "No son iguales")}.");
-        System.Console.WriteLine($"(int) Los parametros {(Igualdad(1, 2) ? "Son iguales" : "No son iguales")}.");
-        System.Console.WriteLine($"(string) Los parametros {(Igualdad("1", "1") ? "Son iguales" : "No son iguales")}.");
-        System.Console.WriteLine($"(string) Los parametros {(Igualdad("1", "2") ? "Son iguales" : "No son iguales")}.");
+
         Persona p1 = new Persona("Nombre", "Apellido");
         Persona p2 = p1;
         Persona p3 = new Persona("Nombre", "Apellido");
         Persona p4 = new Persona("Nombre4", "Apellido4");
-        System.Console.WriteLine($"(persona1) Los parametros {(Igualdad(p1, p2) ? "Son iguales" : "No son iguales")}.");
-        System.Console.WriteLine($"(persona3) Los parametros {(Igualdad(p1, p3) ? "Son iguales" : "No son iguales")}.");
-        System.Console.WriteLine($"(persona4) Los parametros {(Igualdad(p1, p4) ? "Son iguales" : "No son iguales")}.");
+
+        Alumno a1 = new("Alumno", "Apellido");
+        Alumno a2 = a1;
+        Alumno a3 = new("Alumno", "Apellido");
+        Alumno a4 = new("Alumno4", "Apellido4");
+
+        Conserje c1 = new("Conserje", "Apellido");
+        Conserje c2 = c1;
+        Conserje c3 = new("Conserje", "Apellido");
+        Conserje c4 = new("Conserje4", "Apellido4");
+
+        Profesor pf1 = new("Profesor", "Apellido");
+        Profesor pf2 = pf1;
+        Profesor pf3 = new("Profesor", "Apellido");
+        Profesor pf4 = new("Profesor4", "Apellido4");
+
+        #region "1. Tarea"
+        Console.WriteLine("=== TAREA 1 ===");
+        Console.WriteLine($"(int) Los parametros {(Igualdad(1, 1) ? "Son iguales" : "No son iguales")}.");
+        Console.WriteLine($"(int) Los parametros {(Igualdad(1, 2) ? "Son iguales" : "No son iguales")}.");
+        Console.WriteLine($"(string) Los parametros {(Igualdad("1", "1") ? "Son iguales" : "No son iguales")}.");
+        Console.WriteLine($"(string) Los parametros {(Igualdad("1", "2") ? "Son iguales" : "No son iguales")}.");
+        Console.WriteLine($"(persona1) Los parametros {(Igualdad(p1, p2) ? "Son iguales" : "No son iguales")}.");
+        Console.WriteLine($"(persona3) Los parametros {(Igualdad(p1, p3) ? "Son iguales" : "No son iguales")}.");
+        Console.WriteLine($"(persona4) Los parametros {(Igualdad(p1, p4) ? "Son iguales" : "No son iguales")}.");
+        #endregion "1. Tarea"
+
+        #region "2. Tarea"
+        Console.WriteLine("=== TAREA 2 ===");
+        // Console.WriteLine($"(int1) Los parametros {(Igualdad2(1, 1) ? "Son iguales" : "No son iguales")}.");
+        // Console.WriteLine($"(int2) Los parametros {(Igualdad2(1, 2) ? "Son iguales" : "No son iguales")}.");
+        // Console.WriteLine($"(string1) Los parametros {(Igualdad2("1", "1") ? "Son iguales" : "No son iguales")}.");
+        // Console.WriteLine($"(string2 Los parametros {(Igualdad2("1", "2") ? "Son iguales" : "No son iguales")}.");
+
+        // Console.WriteLine($"(persona1) Los parametros {(Igualdad2(p1, p2) ? "Son iguales" : "No son iguales")}.");
+        // Console.WriteLine($"(persona3) Los parametros {(Igualdad2(p1, p3) ? "Son iguales" : "No son iguales")}.");
+        // Console.WriteLine($"(persona4) Los parametros {(Igualdad2(p1, p4) ? "Son iguales" : "No son iguales")}.");
+
+        // Console.WriteLine($"(Alumno1) Los parametros {(Igualdad2(a1, a2) ? "Son iguales" : "No son iguales")}.");
+        // Console.WriteLine($"(Alumno3) Los parametros {(Igualdad2(a1, a3) ? "Son iguales" : "No son iguales")}.");
+        // Console.WriteLine($"(Alumno4) Los parametros {(Igualdad2(a1, a4) ? "Son iguales" : "No son iguales")}.");
+
+        Console.WriteLine($"(conserje1) Los parametros {(Igualdad2(c1, c2) ? "Son iguales" : "No son iguales")}.");
+        Console.WriteLine($"(conserje3) Los parametros {(Igualdad2(c1, c3) ? "Son iguales" : "No son iguales")}.");
+        Console.WriteLine($"(conserje4) Los parametros {(Igualdad2(c1, c4) ? "Son iguales" : "No son iguales")}.");
+
+        Console.WriteLine($"(profesor1) Los parametros {(Igualdad2(pf1, pf2) ? "Son iguales" : "No son iguales")}.");
+        Console.WriteLine($"(profesor3) Los parametros {(Igualdad2(pf1, pf3) ? "Son iguales" : "No son iguales")}.");
+        Console.WriteLine($"(profesor4) Los parametros {(Igualdad2(pf1, pf4) ? "Son iguales" : "No son iguales")}.");
+
+        #endregion "2. Tarea"
     }
 
-    // 1. Tarea
+    #region "1.Tarea"
     private static bool Igualdad<T>(T param1, T param2)
     {
-        if (param1.Equals(param2))
+        if (param1 == null || param2 == null)
+        {
+            return false;
+        }
+        else if (param1.Equals(param2))
         {
             return true;
         }
 
         return false;
     }
+    #endregion "1.Tarea"
+
+    #region "2.Tarea"
+    private static bool Igualdad2<T>(T param1, T param2)
+      where T : IComparar
+    {
+
+        return param1.Equals(param2);
+    }
+
+    #endregion "1.Tarea"
+
 }
 
 /*
@@ -52,7 +110,7 @@ class Program
      objetos de tipo Profesor y Conserje pero no de tipo Alumno para lo cual te puedes 
      ayudar de lo aprendido en la programación orientada a objetos.
 
-    ¿Qué ocurre si ahora intentas utilizarlo con números o cadenas?
+     ¿Qué ocurre si ahora intentas utilizarlo con números o cadenas?
 
 
   3. Integra el método anterior dentro de una clase, en la cual declararás los tipos de 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Benny\\Documents\\Cursos-Cluster TIC\\01-desarrollo-net7-csharp11\\Web\\04 - BLOQUE 2 PROGRAMACIÓN ORIENTADA A OBJETOS\\Modulo 6 - Funciones, tipos genéricos y tuplas\\Punto-06\\PracticaModulo6\\PracticaModulo6.csproj",
+      "projectUniqueName": "C:\\Users\\Benny\\Documents\\Cursos-Cluster TIC\\01-desarrollo-net7-csharp11\\CTIC_DesarrolloDotNET7\\Bloque02\\Modulo06\\Punto6\\PracticaModulo6\\PracticaModulo6.csproj",
       "projectName": "PracticaModulo6",
-      "projectPath": "C:\\Users\\Benny\\Documents\\Cursos-Cluster TIC\\01-desarrollo-net7-csharp11\\Web\\04 - BLOQUE 2 PROGRAMACIÓN ORIENTADA A OBJETOS\\Modulo 6 - Funciones, tipos genéricos y tuplas\\Punto-06\\PracticaModulo6\\PracticaModulo6.csproj",
+      "projectPath": "C:\\Users\\Benny\\Documents\\Cursos-Cluster TIC\\01-desarrollo-net7-csharp11\\CTIC_DesarrolloDotNET7\\Bloque02\\Modulo06\\Punto6\\PracticaModulo6\\PracticaModulo6.csproj",
       "packagesPath": "C:\\Users\\Benny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Benny\\Documents\\Cursos-Cluster TIC\\01-desarrollo-net7-csharp11\\Web\\04 - BLOQUE 2 PROGRAMACIÓN ORIENTADA A OBJETOS\\Modulo 6 - Funciones, tipos genéricos y tuplas\\Punto-06\\PracticaModulo6\\obj\\",
+      "outputPath": "C:\\Users\\Benny\\Documents\\Cursos-Cluster TIC\\01-desarrollo-net7-csharp11\\CTIC_DesarrolloDotNET7\\Bloque02\\Modulo06\\Punto6\\PracticaModulo6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Benny\\AppData\\Roaming\\NuGet\\NuGet.Config",

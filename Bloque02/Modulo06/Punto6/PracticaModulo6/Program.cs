@@ -186,6 +186,32 @@ class Program
 
         #endregion "4. Tarea"
         // ---
+        #region "5. Tarea"
+        /* 5. Modifica lo hecho hasta ahora para que puedas pasar los datos en el momento de 
+              instanciar la clase mediante un constructor. ¿Se pueden seguir empleando los genéricos 
+              con los constructores?
+        */
+
+        Console.WriteLine("=== TAREA 5 ===");
+
+        Comparar5<Conserje> comparar5d = new();
+        comparar5d.Param1 = c1;
+        comparar5d.Param2 = c2;
+        Console.WriteLine("(Conserje1) " + comparar5d.Mostrar());
+
+        Comparar5<Conserje> comparar5a = new(c1, c2);
+        Console.WriteLine("(Conserje2) " + comparar5a.Mostrar());
+
+        Comparar5<Profesor> comparar5p = new(pf1, pf2);
+        Console.WriteLine("(Profesor) " + comparar5p.Mostrar());
+
+        Comparar5<int> comparar5b = new(1, 1);
+        Console.WriteLine("(int) " + comparar5b.Mostrar());
+
+        Comparar5<string> comparar5c = new("1", "1");
+        Console.WriteLine("(string) " + comparar5c.Mostrar());
+        #endregion "5. Tarea"
+        // ---
     }
     // === Methods ===
     #region "1.Tarea"
@@ -218,10 +244,7 @@ class Program
 
 
 
-/* 5. Modifica lo hecho hasta ahora para que puedas pasar los datos en el momento de 
-     instanciar la clase mediante un constructor. ¿Se pueden seguir empleando los genéricos 
-     con los constructores?
-*/
+
 
 /* 6. Ya has empleado anteriormente las matrices, por lo que ahora vamos a trabajar con ellas.
      Crea un método que imprimirá por consola un valor, para lo cual recibirá dos parámetros:

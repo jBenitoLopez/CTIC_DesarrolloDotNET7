@@ -249,6 +249,35 @@ class Program
         #endregion "6. Tarea"
         // ---
 
+        #region "7. Tarea"
+        /* 7. Crea una interfaz que obligue a que toda clase que la implemente, tenga que tener una 
+              serie de propiedades y métodos:
+
+              - Propiedad Nombre de tipo string.
+
+              - Las propiedades Peso y Altura cuyo tipo lo determinará la clase que implemente la 
+                interfaz, puesto que pueden querer decimales (tipo decimal, double, etc...) 
+                o no (tipo int, long, etc...).
+
+              - Método MostrarDatosFisicos que deberá mostrar por consola el texto "X pesa Y kilos 
+                y mide Z metros", donde X es Nombre, Y Peso y Z Altura.
+                // "Pepito pesa 100 kilos y mide 1,80 metros"
+
+              A continuación modifica la clase Persona de la teoría o crea una nueva, para que 
+              implemente la interfaz que acabas de hacer. Después crea un par de objetos de tipo 
+              Persona con todos los datos, para llamar posteriormente al método MostrarDatosFisicos.   
+        */
+        Console.WriteLine("=== TAREA 7 ===");
+
+        var persona1 = new Persona("Pepito", 106, 1.77m);
+        persona1.MostrarDatosFisicos();
+
+        var usuario1 = new Persona("Pedro", 96, 1.57m);
+        usuario1.MostrarDatosFisicos();
+
+
+        #endregion "7. Tarea"
+
     }
     // === Methods ===
     #region "1.Tarea"
@@ -309,21 +338,3 @@ class Program
     }
     #endregion "6.Tarea"
 }
-
-
-/* 7. Crea una interfaz que obligue a que toda clase que la implemente, tenga que tener una 
-     serie de propiedades y métodos:
-
-    - Propiedad Nombre de tipo string.
-
-    - Las propiedades Peso y Altura cuyo tipo lo determinará la clase que implemente la 
-      interfaz, puesto que pueden querer decimales (tipo decimal, double, etc...) 
-      o no (tipo int, long, etc...).
-
-    - Método MostrarDatosFisicos que deberá mostrar por consola el texto "X pesa Y kilos 
-      y mide Z metros", donde X es Nombre, Y Peso y Z Altura.
-
-     A continuación modifica la clase Persona de la teoría o crea una nueva, para que 
-     implemente la interfaz que acabas de hacer. Después crea un par de objetos de tipo 
-     Persona con todos los datos, para llamar posteriormente al método MostrarDatosFisicos.   
-  */

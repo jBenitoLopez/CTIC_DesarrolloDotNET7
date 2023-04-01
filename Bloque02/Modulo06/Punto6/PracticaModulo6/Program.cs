@@ -25,6 +25,17 @@ class Program
         Profesor pf4 = new("Profesor4", "Apellido4");
         // ---
         #region "1. Tarea"
+        /* 1. Crea un método Igualdad que recibe dos parámetros.
+              - Los parámetros podrán ser de cualquier tipo, y será en el momento de llamar al 
+                método cuando definamos el tipo.
+              - Deberá devolver un valor booleano que nos informe si ambos parámetros son 
+                iguales o no 
+
+              Cuando pruebes el método, no solo pruebes a pasarle dos números enteros, prueba 
+              con otros tipos de datos incluido algún objeto que crees (puedes utilizar las 
+              clases de ejemplo del curso para crearlo) y mira a ver si creando dos objetos 
+              del mismo tipo te da como igual o no...
+        */
         Console.WriteLine("=== TAREA 1 ===");
         Console.WriteLine($"(int) Los parametros {(Igualdad(1, 1) ? "Son iguales" : "No son iguales")}.");
         Console.WriteLine($"(int) Los parametros {(Igualdad(1, 2) ? "Son iguales" : "No son iguales")}.");
@@ -36,6 +47,16 @@ class Program
         #endregion "1. Tarea"
         // ---
         #region "2. Tarea"
+        /* 2. En temas anteriores ya hemos visto el uso de las clases, interfaces, herencia, 
+              poliformismo, etc... para lo cual nos hemos ayudado en la teoría de unas clases 
+              Persona, Alumno, Profesor o Conserje.
+        
+              Modifica el método anterior de forma que te permita realizar la comparación de 
+              objetos de tipo Profesor y Conserje pero no de tipo Alumno para lo cual te puedes 
+              ayudar de lo aprendido en la programación orientada a objetos.
+        
+              ¿Qué ocurre si ahora intentas utilizarlo con números o cadenas?
+        */
         Console.WriteLine("=== TAREA 2 ===");
         // Console.WriteLine($"(int1) Los parametros {(Igualdad2(1, 1) ? "Son iguales" : "No son iguales")}.");
         // Console.WriteLine($"(int2) Los parametros {(Igualdad2(1, 2) ? "Son iguales" : "No son iguales")}.");
@@ -61,6 +82,18 @@ class Program
         #endregion "2. Tarea"
         // ---
         #region "3. Tarea"
+        /* 3. Integra el método anterior dentro de una clase, en la cual declararás los tipos de 
+              los datos que vas a utilizar.
+
+              Elimina los parámetros de la función, y en su lugar pasa los datos mediante dos 
+              propiedades, de forma que al llamar a la función obtendrá los datos de las propiedades 
+              para hacer la comparación. De esta forma para llamar al método será necesario 
+              instanciar la clase y pasar previamente los datos al objeto antes de hacer la llamada.
+        
+              ¿Qué ocurrirá si llamamos a la función antes de pasar los parámetros? 
+              ¿Qué modificación tendremos que hacer para que el método se pueda ejecutar sin 
+              problemas empleando datos por defecto?
+        */
         Console.WriteLine("=== TAREA 3 ===");
 
         // Comparar<int> cint1 = new();
@@ -114,8 +147,47 @@ class Program
         Console.WriteLine($"(Profesor4) Los parametros {(cpro4.Igualdad() ? "Son iguales" : "No son iguales")}.");
         #endregion "3. Tarea"
         // ---
-    }
+        #region "4. Tarea"
+        /* 4. Ahora añade un segundo método a la clase que permita devolver la unión de los dos 
+              parámetros dependiendo de su tipo
 
+              - En el caso de tratarse de una de las clases admitidas se tratará del texto Nombre 
+                Apellido de la primera propiedad concatenado con el Nombre Apellido de la segunda.
+
+              - En el caso que los datos sean cadenas de caracteres, las devolverá concatenadas.
+
+              - Si se trata de números o fechas, devolverá una cadena de texto con la suma de ambas 
+                propiedades.
+
+                Esto te permitirá trabajar con el tipo de los datos, de forma que manejes de distinta 
+                manera uno u otro. Para esto recuerda los operadores is y as.
+        */
+        Console.WriteLine("=== TAREA 4 ===");
+        Comparar4<Conserje> comparar4a = new();
+        comparar4a.Param1 = c1;
+        comparar4a.Param2 = c2;
+        Console.WriteLine("(Conserje) " + comparar4a.Mostrar());
+
+        Comparar4<Profesor> comparar4p = new();
+        comparar4p.Param1 = pf1;
+        comparar4p.Param2 = pf2;
+        Console.WriteLine("(Profesor) " + comparar4p.Mostrar());
+
+        Comparar4<int> comparar4b = new();
+        comparar4b.Param1 = 1;
+        comparar4b.Param2 = 1;
+        Console.WriteLine("(int) " + comparar4b.Mostrar());
+
+        Comparar4<string> comparar4c = new();
+        comparar4c.Param1 = "1";
+        comparar4c.Param2 = "1";
+        Console.WriteLine("(string) " + comparar4c.Mostrar());
+
+
+        #endregion "4. Tarea"
+        // ---
+    }
+    // === Methods ===
     #region "1.Tarea"
     private static bool Igualdad<T>(T param1, T param2)
     {
@@ -141,61 +213,10 @@ class Program
 
     #endregion "1.Tarea"
 
-    #region "3.Tarea"
 
-    #endregion "3.Tarea"
 }
 
-/* 1. Crea un método Igualdad que recibe dos parámetros.
-      - Los parámetros podrán ser de cualquier tipo, y será en el momento de llamar al 
-        método cuando definamos el tipo.
-      - Deberá devolver un valor booleano que nos informe si ambos parámetros son 
-        iguales o no 
 
-      Cuando pruebes el método, no solo pruebes a pasarle dos números enteros, prueba 
-      con otros tipos de datos incluido algún objeto que crees (puedes utilizar las 
-      clases de ejemplo del curso para crearlo) y mira a ver si creando dos objetos 
-      del mismo tipo te da como igual o no...
-*/
-
-/* 2. En temas anteriores ya hemos visto el uso de las clases, interfaces, herencia, 
-      poliformismo, etc... para lo cual nos hemos ayudado en la teoría de unas clases 
-      Persona, Alumno, Profesor o Conserje.
- 
-      Modifica el método anterior de forma que te permita realizar la comparación de 
-      objetos de tipo Profesor y Conserje pero no de tipo Alumno para lo cual te puedes 
-      ayudar de lo aprendido en la programación orientada a objetos.
- 
-      ¿Qué ocurre si ahora intentas utilizarlo con números o cadenas?
-*/
-
-/* 3. Integra el método anterior dentro de una clase, en la cual declararás los tipos de 
-      los datos que vas a utilizar.
-
-      Elimina los parámetros de la función, y en su lugar pasa los datos mediante dos 
-      propiedades, de forma que al llamar a la función obtendrá los datos de las propiedades 
-      para hacer la comparación. De esta forma para llamar al método será necesario 
-      instanciar la clase y pasar previamente los datos al objeto antes de hacer la llamada.
- 
-      ¿Qué ocurrirá si llamamos a la función antes de pasar los parámetros? 
-      ¿Qué modificación tendremos que hacer para que el método se pueda ejecutar sin 
-       problemas empleando datos por defecto?
-*/
-
-/* 4. Ahora añade un segundo método a la clase que permita devolver la unión de los dos 
-     parámetros dependiendo de su tipo
-
-    - En el caso de tratarse de una de las clases admitidas se tratará del texto Nombre 
-      Apellido de la primera propiedad concatenado con el Nombre Apellido de la segunda.
-
-    - En el caso que los datos sean cadenas de caracteres, las devolverá concatenadas.
-
-    - Si se trata de números o fechas, devolverá una cadena de texto con la suma de ambas 
-      propiedades.
-
-      Esto te permitirá trabajar con el tipo de los datos, de forma que manejes de distinta 
-      manera uno u otro. Para esto recuerda los operadores is y as.
-*/
 
 /* 5. Modifica lo hecho hasta ahora para que puedas pasar los datos en el momento de 
      instanciar la clase mediante un constructor. ¿Se pueden seguir empleando los genéricos 

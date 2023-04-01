@@ -1,8 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace PracticaModulo6
 {
     public class Comparar<T>
@@ -15,6 +10,13 @@ namespace PracticaModulo6
         public bool Igualdad()
         {
             return Param1.Equals(Param2);
+        }
+
+        public string Mostrar()
+        {
+
+
+            return $"Item1: {Param1.Nombre} {Param1.Apellidos}, Item2: {Param2.Nombre} {Param2.Apellidos}";
         }
     }
 }

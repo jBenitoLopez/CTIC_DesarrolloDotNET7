@@ -1,4 +1,6 @@
-﻿namespace PracticaModulo6;
+﻿using System.Collections;
+using System.Xml.Serialization;
+namespace PracticaModulo6;
 class Program
 {
     static void Main(string[] args)
@@ -212,6 +214,41 @@ class Program
         Console.WriteLine("(string) " + comparar5c.Mostrar());
         #endregion "5. Tarea"
         // ---
+        #region "6. Tarea"
+        /* 6. Ya has empleado anteriormente las matrices, por lo que ahora vamos a trabajar con ellas.
+              Crea un método que imprimirá por consola un valor, para lo cual recibirá dos parámetros:
+
+              - El primero será un array de enteros o cadenas de caracteres. Para obtener los datos, 
+                solicítaselos al usuario a través de la consola.
+
+              - El segundo será de tipo numérico e indicará la posición a imprimir del array. 
+                Determina su valor de forma aleatoria mediante la clase Random.
+
+                Finalmente el método imprimirá por consola el valor de la matriz situado en la posición 
+                especificada por el parámetro numérico.
+
+                ¿Cómo podrás hacer para que acepte distintos tipos de matrices? 
+                ¿El primer parámetro será necesario que sea también un genérico? 
+                Ten en cuenta que sis permites más tipos de datos que no sean matrices, deberás informar 
+                que el tipo no es válido.
+        */
+        Console.WriteLine("=== TAREA 6 ===");
+
+        var randomNumber = new Random().Next(0, 15);
+        System.Console.WriteLine($"randomNumber: {randomNumber}");
+        var intArray = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 };
+        Imprimir(intArray, randomNumber);
+
+        randomNumber = new Random().Next(0, 10);
+        System.Console.WriteLine($"randomNumber: {randomNumber}");
+        var strArray = new string[] { "uno", "dos", "tres", "cuatro", "cinco", "seis", "siete", "ocho", "nueve", "diez" };
+        Imprimir(strArray, randomNumber);
+
+        Imprimir("Hola!", 2);
+
+        #endregion "6. Tarea"
+        // ---
+
     }
     // === Methods ===
     #region "1.Tarea"
@@ -239,30 +276,40 @@ class Program
 
     #endregion "1.Tarea"
 
+    #region "6.Tarea"
+    public static void Imprimir<T>(T array, int position)
+      where T : IEnumerable
+    {
+        if (array is Int32[] intArray)
+        {
+            for (int i = position - 1; i < intArray.Length; i++)
+            {
+                System.Console.WriteLine($"(int) Posicion {i + 1} = {intArray[i]}");
+            }
+        }
+        else if (array is String[] strArray)
+        {
+            for (int i = position - 1; i < strArray.Length; i++)
+            {
+                System.Console.WriteLine($"(str) Posicion {i + 1} = {strArray[i]}");
+            }
+        }
+        else if (array is String str)
+        {
+            for (int i = position - 1; i < str.Length; i++)
+            {
+                System.Console.WriteLine($"(char) Posicion {i + 1} = {str[i]}");
+            }
+        }
+        else
+        {
+            Console.WriteLine("No tiene un formato valido");
+        }
 
+    }
+    #endregion "6.Tarea"
 }
 
-
-
-
-
-/* 6. Ya has empleado anteriormente las matrices, por lo que ahora vamos a trabajar con ellas.
-     Crea un método que imprimirá por consola un valor, para lo cual recibirá dos parámetros:
-
-    - El primero será un array de enteros o cadenas de caracteres. Para obtener los datos, 
-      solicítaselos al usuario a través de la consola.
-
-    - El segundo será de tipo numérico e indicará la posición a imprimir del array. 
-      Determina su valor de forma aleatoria mediante la clase Random.
-
-      Finalmente el método imprimirá por consola el valor de la matriz situado en la posición 
-      especificada por el parámetro numérico.
-
-      ¿Cómo podrás hacer para que acepte distintos tipos de matrices? 
-      ¿El primer parámetro será necesario que sea también un genérico? 
-      Ten en cuenta que si permites más tipos de datos que no sean matrices, deberás informar 
-      que el tipo no es válido.
-*/
 
 /* 7. Crea una interfaz que obligue a que toda clase que la implemente, tenga que tener una 
      serie de propiedades y métodos:

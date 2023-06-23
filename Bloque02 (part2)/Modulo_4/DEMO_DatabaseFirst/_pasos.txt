@@ -1,0 +1,21 @@
+Dar permisos para crear Diagramas en Base de datos
+> ALTER AUTHORIZATION ON DATABASE ::AppDatos TO SA
+
+
+Dentro de la carpeta del nuevo proyecto
+
+> dotnet tool install --global dotnet-ef
+> dotnet tool install --global dotnet-ef --version 6.*
+
+> dotnet new console
+
+> dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+> dotnet add package Microsoft.EntityFrameworkCore.Design
+
+> dotnet ef dbcontext --help
+
+> dotnet ef dbcontext scaffold "Encrypt=false;Data Source=BPO2204-408\SQL2019;Initial Catalog=AppDatos;Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer --context-dir Contexto --output-dir Entidades
+
+
+> dotnet ef dbcontext scaffold "Encrypt=false;Data Source=BPO2204-408\SQL2019;Initial Catalog=AppDatos;Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer --context-dir Contexto --output-dir Entidades --force
